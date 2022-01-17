@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I love taking ***valuable insights*** from data no matter what dataset I have at hand. I'm next to be a **Data Scientists** and apply my knowledge in industry. My favourite programming languae is _Python_, but I am also skillful in _C, C#, R, Matlap, HTML and JavaScript._
